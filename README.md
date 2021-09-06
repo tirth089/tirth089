@@ -1,10 +1,12 @@
-# Hi! I am Tirth.
+# Hey fellow `<developers />`! I am Tirth.
 <br />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tirth089&label=Views&color=0052cc&style=flat&label=PROFILE+VIEWS" alt="tirth089" /></p>
 
-### About Me
+### About Me 🚀
 
+- Interested in full stack. Recent focus on frontend.
+- I am passionate about Web Dev & I enjoy learning new things.
 - Fun fact: I like to read about Tech, Finance and Investing.
 
 
